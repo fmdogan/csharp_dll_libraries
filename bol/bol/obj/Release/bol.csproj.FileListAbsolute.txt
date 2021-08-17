@@ -1,0 +1,6 @@
+C:\Users\fmehm\source\repos\bol\bol\bin\Release\bol.dll
+C:\Users\fmehm\source\repos\bol\bol\bin\Release\bol.pdb
+C:\Users\fmehm\source\repos\bol\bol\obj\Release\bol.csprojAssemblyReference.cache
+C:\Users\fmehm\source\repos\bol\bol\obj\Release\bol.csproj.CoreCompileInputs.cache
+C:\Users\fmehm\source\repos\bol\bol\obj\Release\bol.dll
+C:\Users\fmehm\source\repos\bol\bol\obj\Release\bol.pdb

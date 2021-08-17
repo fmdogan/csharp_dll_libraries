@@ -1,0 +1,6 @@
+C:\Users\fmehm\source\repos\bol\bol\bin\Debug\bol.dll
+C:\Users\fmehm\source\repos\bol\bol\bin\Debug\bol.pdb
+C:\Users\fmehm\source\repos\bol\bol\obj\Debug\bol.csproj.CoreCompileInputs.cache
+C:\Users\fmehm\source\repos\bol\bol\obj\Debug\bol.dll
+C:\Users\fmehm\source\repos\bol\bol\obj\Debug\bol.pdb
+C:\Users\fmehm\source\repos\bol\bol\obj\Debug\bol.csprojAssemblyReference.cache

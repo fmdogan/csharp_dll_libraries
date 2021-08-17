@@ -1,0 +1,5 @@
+C:\Users\fmehm\source\repos\cikar\cikar\bin\Debug\cikar.dll
+C:\Users\fmehm\source\repos\cikar\cikar\bin\Debug\cikar.pdb
+C:\Users\fmehm\source\repos\cikar\cikar\obj\Debug\cikar.csproj.CoreCompileInputs.cache
+C:\Users\fmehm\source\repos\cikar\cikar\obj\Debug\cikar.dll
+C:\Users\fmehm\source\repos\cikar\cikar\obj\Debug\cikar.pdb

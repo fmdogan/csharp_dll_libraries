@@ -1,0 +1,5 @@
+C:\Users\fmehm\source\repos\topla\topla\bin\Release\topla.dll
+C:\Users\fmehm\source\repos\topla\topla\bin\Release\topla.pdb
+C:\Users\fmehm\source\repos\topla\topla\obj\Release\cikar.csproj.CoreCompileInputs.cache
+C:\Users\fmehm\source\repos\topla\topla\obj\Release\topla.dll
+C:\Users\fmehm\source\repos\topla\topla\obj\Release\topla.pdb

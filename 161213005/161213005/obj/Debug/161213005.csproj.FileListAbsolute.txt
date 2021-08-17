@@ -1,0 +1,10 @@
+C:\Users\fmehm\source\repos\161213005\161213005\bin\Debug\161213005.exe.config
+C:\Users\fmehm\source\repos\161213005\161213005\bin\Debug\161213005.exe
+C:\Users\fmehm\source\repos\161213005\161213005\bin\Debug\161213005.pdb
+C:\Users\fmehm\source\repos\161213005\161213005\obj\Debug\161213005.csprojAssemblyReference.cache
+C:\Users\fmehm\source\repos\161213005\161213005\obj\Debug\_161213005.Form1.resources
+C:\Users\fmehm\source\repos\161213005\161213005\obj\Debug\_161213005.Properties.Resources.resources
+C:\Users\fmehm\source\repos\161213005\161213005\obj\Debug\161213005.csproj.GenerateResource.cache
+C:\Users\fmehm\source\repos\161213005\161213005\obj\Debug\161213005.csproj.CoreCompileInputs.cache
+C:\Users\fmehm\source\repos\161213005\161213005\obj\Debug\161213005.exe
+C:\Users\fmehm\source\repos\161213005\161213005\obj\Debug\161213005.pdb

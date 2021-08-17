@@ -1,0 +1,5 @@
+C:\Users\fmehm\source\repos\carp\carp\bin\Release\carp.dll
+C:\Users\fmehm\source\repos\carp\carp\bin\Release\carp.pdb
+C:\Users\fmehm\source\repos\carp\carp\obj\Release\carp.csproj.CoreCompileInputs.cache
+C:\Users\fmehm\source\repos\carp\carp\obj\Release\carp.dll
+C:\Users\fmehm\source\repos\carp\carp\obj\Release\carp.pdb

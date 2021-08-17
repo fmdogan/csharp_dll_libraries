@@ -1,0 +1,6 @@
+C:\Users\fmehm\source\repos\topla\topla\bin\Debug\topla.dll
+C:\Users\fmehm\source\repos\topla\topla\bin\Debug\topla.pdb
+C:\Users\fmehm\source\repos\topla\topla\obj\Debug\cikar.csprojAssemblyReference.cache
+C:\Users\fmehm\source\repos\topla\topla\obj\Debug\cikar.csproj.CoreCompileInputs.cache
+C:\Users\fmehm\source\repos\topla\topla\obj\Debug\topla.dll
+C:\Users\fmehm\source\repos\topla\topla\obj\Debug\topla.pdb

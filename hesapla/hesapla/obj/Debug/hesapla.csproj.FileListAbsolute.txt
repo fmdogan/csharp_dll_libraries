@@ -1,0 +1,8 @@
+C:\Users\fmehm\source\repos\hesapla\hesapla\bin\Debug\hesapla.dll
+C:\Users\fmehm\source\repos\hesapla\hesapla\bin\Debug\hesapla.pdb
+C:\Users\fmehm\source\repos\hesapla\hesapla\bin\Debug\topla.dll
+C:\Users\fmehm\source\repos\hesapla\hesapla\obj\Debug\hesapla.csprojAssemblyReference.cache
+C:\Users\fmehm\source\repos\hesapla\hesapla\obj\Debug\hesapla.csproj.CoreCompileInputs.cache
+C:\Users\fmehm\source\repos\hesapla\hesapla\obj\Debug\hesapla.csproj.CopyComplete
+C:\Users\fmehm\source\repos\hesapla\hesapla\obj\Debug\hesapla.dll
+C:\Users\fmehm\source\repos\hesapla\hesapla\obj\Debug\hesapla.pdb
